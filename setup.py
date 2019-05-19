@@ -19,7 +19,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
-    install_requires=['certifi>=2019.3.9', 'pypandoc>=1.4'],
+    install_requires=['certifi>=2019.3.9', 'pypandoc>=1.4','pytest>=4.3.1','pytest-runner>=4.4'],
     # Substitute <github_account> with the name of your GitHub account
     url='https://github.com/<github_account>/titanic_datascience',
     author='Amol Patel',  # Substitute your name
